@@ -37,4 +37,3 @@ Complete Django CRUD application for managing tasks.
 - Admin interface at /admin/
 
 All required files: models.py, views.py, forms.py, urls.py implemented with class-based views.
-
